@@ -2,7 +2,7 @@ This is the title
 
 This is the first paragraph.
 
-This is a line in the middle.
+Here I merged another line.
 
 This is the second paragraph.
 
