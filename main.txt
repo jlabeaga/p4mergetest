@@ -2,6 +2,8 @@ This is the title
 
 This is the first paragraph.
 
+This is a line in the middle.
+
 This is the second paragraph.
 
 This is the end.
